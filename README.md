@@ -10,3 +10,5 @@ Summary: It reverse-engineers the Docker Run commands for all of your Docker con
 **How to set it up:**
 1) Set the root path in the script (where do you want to save all of the scripts)
 2) Create a cron job to run the script whenever you want
+
+The script has not been configured to work on Windows. Linux only. I'm not really interested in maintaining this as a project, just making this available for others.
